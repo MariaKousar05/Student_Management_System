@@ -1,0 +1,5 @@
+CS101 | Computing Fundamentals | 3
+BME402 | Signal Processing | 3
+QT411 | Signals and Systems | 2
+RM431 | Digital Logic Design | 3
+CE112 | Calculus | 2

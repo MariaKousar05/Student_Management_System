@@ -1,0 +1,6 @@
+538067 | CS101 | grades=[95] | attendance=3/5
+538831 | CS101 | grades=[87] | attendance=2/3
+533831 | CS101 | grades=[3,67] | attendance=1/1
+538067 | QT411 | grades=[78] | attendance=2/3
+538831 | CE112 | grades=[46] | attendance=3/3
+533831 | RM431 | grades=[86] | attendance=1/2
