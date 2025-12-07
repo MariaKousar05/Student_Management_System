@@ -77,7 +77,7 @@ Handles core functionality: adding students/subjects, enrolling students, gradin
 Maintains in-memory dictionaries for fast access to students, subjects, enrollments, and records.
 
 ## Important Notes
--Students must exist before enrolling in subjects, marking attendance, or adding grades.
--Subjects must be added before enrolling students.
--Records are automatically created when a student is enrolled in a subject.
+-Students must exist before enrolling in subjects, marking attendance, or adding grades.\n
+-Subjects must be added before enrolling students.\n
+-Records are automatically created when a student is enrolled in a subject.\n
 -Data files update automatically whenever changes are made through the CLI.
